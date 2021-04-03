@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2de117c0-ab0e-46d1-8e93-f48aa8560374" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q5ngq2gk8kCqCDf2HgMkvorxyu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\xmb-user\WebstormProjects\untitled14\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="testPath.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/testPath.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.testPath.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2de117c0-ab0e-46d1-8e93-f48aa8560374" name="Default Changelist" comment="" />
+      <created>1616378432340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616378432340</updated>
+      <workItem from="1616378433435" duration="5325000" />
+      <workItem from="1616481778679" duration="9013000" />
+      <workItem from="1616509526149" duration="7089000" />
+      <workItem from="1616550782167" duration="14924000" />
+      <workItem from="1616641455730" duration="7333000" />
+      <workItem from="1616724347162" duration="14582000" />
+      <workItem from="1616760588965" duration="662000" />
+      <workItem from="1616893019574" duration="2646000" />
+      <workItem from="1616980337647" duration="605000" />
+      <workItem from="1617246344908" duration="7248000" />
+      <workItem from="1617441736468" duration="985000" />
+      <workItem from="1617452949447" duration="2372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="782" y="357" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617455565212">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="782" y="357" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1617455565212" />
+    <state x="523" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1616510649577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="280" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1616510649577" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1616893025841">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616893025841" />
+    <state width="1515" height="183" key="GridCell.Tab.0.bottom" timestamp="1617271139735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="183" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617271139735" />
+    <state width="1515" height="183" key="GridCell.Tab.0.center" timestamp="1617271139735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="183" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617271139735" />
+    <state width="1515" height="183" key="GridCell.Tab.0.left" timestamp="1617271139734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="183" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617271139734" />
+    <state width="1515" height="183" key="GridCell.Tab.0.right" timestamp="1617271139735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="183" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617271139735" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1616510386049">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1616510386049" />
+  </component>
+</project>
